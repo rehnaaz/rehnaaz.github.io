@@ -14,7 +14,8 @@ This project is a simple web application that allows users to view GitHub user d
 
 1. Clone the repository to your local machine.
     ```
-    git clone https://github.com/rehnaaz/github-repositories-viewer.git
+    git clone [https://github.com/rehnaaz/github-repositories-viewer.git]
+    (https://github.com/rehnaaz/rehnaaz.github.io/)
     ```
 
 2. Open the `index.html` file in a web browser.
